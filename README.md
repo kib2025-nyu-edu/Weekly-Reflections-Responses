@@ -1,7 +1,5 @@
 # Weekly-Reflections-Responses
-Written responses to weekly readings and class assignments
-Kali Birdsall
-Creative Coding, Week 1 Reading Response
+ Week 1: Written responses to readings and class assignments, Creative Coding
 
 WHY I WANT TO LEARN TO PROGRAM:
 
